@@ -1,16 +1,178 @@
-## Hi there 👋
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=Hemendra%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+<h2 align="center">Welcome to my GitHub
+</h2>
 
-<!--
-**hemendra-opensource/hemendra-opensource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  🚀 Full Stack Developer | ☕ Java Developer | 🧠 Problem Solver | 🤖 Exploring AI & Modern Tech
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Full+Stack+Developer+in+Progress;Exploring+AI+Tools+%F0%9F%A4%96" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemendra-opensource
+&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<!-- ABOUT -->
+<h2 align="center" style="color:#2f80ed;">👨‍💻 About Me</h2>
+
+<p align="left">
+💻 Aspiring Full Stack Developer focused on Java, React & modern web technologies<br/>
+🧠 Passionate about Data Structures & Problem Solving (DSA)<br/>
+🏆 Hackathon Participant & active learner in real-world development practices<br/>
+🤖 Exploring AI tools & integrating them into practical projects<br/>
+🚀 Currently focused on building impactful, real-world solutions
+</p>
+
+<hr/>
+
+<!-- TECH STACK -->
+<h2 align="center">🛠 Tech Stack</h2>
+
+<!-- Languages -->
+<h3>💻 Languages</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,c" />
+</p>
+
+<!-- Frontend -->
+<h3>🎨 Frontend</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+<!-- Backend -->
+<h3>⚙️ Backend</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<!-- Database -->
+<h3>🗄️ Databases</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<!-- Deployment -->
+<h3>☁️ Deployment</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+
+<!-- Tools -->
+<h3>🧰 Tools & Platforms</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+<!-- AI Tools (separate = smarter branding) -->
+<h3>🤖 Exploring AI</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Gemini-AI-black?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-AI-6B3FA0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grok-AI-000000?style=for-the-badge" />
+</p>
+
+<hr/>
+
+<hr/>
+
+<!-- PROJECTS -->
+<h2 style="color:#2f80ed;">📂 Featured Projects</h2>
+
+<ul>
+  <li>
+    <b>🌐 Project Name 1</b><br/>
+    <span>Short description of your project</span><br/>
+    <a href="#">🔗 Live Demo</a> | <a href="#">📁 Repo</a>
+  </li>
+  <br/>
+  <li>
+    <b>💻 Project Name 2</b><br/>
+    <span>Short description of your project</span><br/>
+    <a href="#">🔗 Live Demo</a> | <a href="#">📁 Repo</a>
+  </li>
+</ul>
+
+<hr/>
+
+<!-- GITHUB STATS -->
+<section align="center">
+
+<h2>📈 GitHub Insights</h2>
+
+<p>
+These insights represent my coding consistency, repository contributions, and project development activity.
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=hemendra-opensource&show_icons=true&theme=transparent" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hemendra-opensource&theme=transparent" width="48%">
+</p>
+
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemendra-opensource&theme=transparent" width="96%">
+</p>
+
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemendra-opensource&theme=github-compact" width="96%">
+</p>
+
+</section>
+
+<hr>
+
+<hr/>
+
+<!-- CONTACT -->
+<h2 style="color:#2f80ed;">📫 Connect With Me</h2>
+
+<p>
+  <!-- LinkedIn -->
+   <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+<!-- Leetcode -->
+   <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
+</p>
+<hr/>
+
+<!-- FOOTER -->
+<!-- <p align="center" style="color:gray;">
+  ⭐️ From Hemendra | Keep Building 🚀
+</p> -->
+
+<hr/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00C9FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Innovate.;Full+Stack+Developer+in+Progress...;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-AI%20Tools-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  ⭐️ <b>Thanks for visiting!</b> Let’s connect & build something impactful 🚀
+</p>
