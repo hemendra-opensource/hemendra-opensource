@@ -6,7 +6,7 @@
 </h2>
 
 <h3 align="center">
-    🚀 Full Stack Developer | ☕ Java & 🐍 Python Developer | 🧠 Problem Solver | 🤖 Exploring AI & Modern Tech
+    🚀 Full Stack Developer | ☕ Java • 🐍 Python | 🧠 DSA | 📊 Exploring Data Engineering & AI
 </h3>
 
 <p align="center">
@@ -23,12 +23,13 @@
 
 <p align="left">
 💻 Aspiring Full Stack Developer focused on Java, React & modern web technologies<br/>
+🐍 Expanding skills in Python and exploring Data Engineering concepts<br/>
 🧠 Passionate about Data Structures & Problem Solving (DSA)<br/>
 🏆 Hackathon Participant & active learner in real-world development practices<br/>
-🤖 Exploring AI tools & integrating them into practical projects<br/>
-🚀 Currently focused on building impactful, real-world solutions
+🤖 Exploring AI tools and integrating them into practical applications<br/>
+📊 Building a foundation in data pipelines, databases, and scalable systems<br/>
+🚀 Focused on creating impactful, real-world solutions
 </p>
-
 <hr/>
 
 <!-- TECH STACK -->
@@ -37,7 +38,7 @@
 <!-- Languages -->
 <h3>💻 Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,c" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c/c++" />
 </p>
 
 <!-- Frontend -->
