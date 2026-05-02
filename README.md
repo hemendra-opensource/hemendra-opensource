@@ -6,7 +6,7 @@
 </h2>
 
 <h3 align="center">
-  🚀 Full Stack Developer | ☕ Java Developer | 🧠 Problem Solver | 🤖 Exploring AI & Modern Tech
+    🚀 Full Stack Developer | ☕ Java & 🐍 Python Developer | 🧠 Problem Solver | 🤖 Exploring AI & Modern Tech
 </h3>
 
 <p align="center">
