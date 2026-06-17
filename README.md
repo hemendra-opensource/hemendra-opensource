@@ -129,8 +129,22 @@ These insights represent my coding consistency, repository contributions, and pr
 
 <hr>
 
-<hr/>
+<!-- <h2>📅 Contribution Calendar</h2>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/hemendra-opensource" alt="GitHub Contribution Chart" />
+</p> -->
+<h2 align="center">📅 Contribution Calendar</h2>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/hemendra-opensource"
+    alt="GitHub Contribution Chart"
+    width="100%"
+  />
+</p>
+
+<hr/>
 <!-- CONTACT -->
 <h2 style="color:#2f80ed;">📫 Connect With Me</h2>
 
