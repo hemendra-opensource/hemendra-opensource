@@ -19,7 +19,7 @@
 </p>
 
 <!-- ABOUT -->
-<h2 align="center" style="color:#2f80ed;">👨‍💻 About Me</h2>
+ <h2 align="center" style="color:#2f80ed;">👨‍💻 About Me</h2>
 
 <p align="left">
 💻 Aspiring Full Stack Developer focused on Java, React & modern web technologies<br/>
@@ -111,8 +111,7 @@
 <p>
 These insights represent my coding consistency, repository contributions, and project development activity.
 </p>
-
-<p>
+ <p>
 <img src="https://github-readme-stats.vercel.app/api?username=hemendra-opensource&show_icons=true&theme=transparent" width="48%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hemendra-opensource&theme=transparent" width="48%">
 </p>
