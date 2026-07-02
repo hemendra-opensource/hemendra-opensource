@@ -89,16 +89,25 @@
 
 <ul>
   <li>
-    <b>🌐 Project Name 1</b><br/>
-    <span>Short description of your project</span><br/>
-    <a href="#">🔗 Live Demo</a> | <a href="#">📁 Repo</a>
-  </li>
-  <br/>
-  <li>
-    <b>💻 Project Name 2</b><br/>
-    <span>Short description of your project</span><br/>
-    <a href="#">🔗 Live Demo</a> | <a href="#">📁 Repo</a>
-  </li>
+  <b>🌐 Personal Portfolio</b><br/>
+  <span>
+    A modern, responsive portfolio showcasing my projects, technical skills, certifications,
+    education, and experience with a clean UI and seamless user experience.
+  </span><br/>
+  <a href="https://hemendra-sharma.netlify.app/" target="_blank">🔗 Live Demo</a>
+</li>
+
+<br/>
+
+<li>
+  <b>⚡ Serverless E-Commerce ETL Pipeline</b><br/>
+  <span>
+    An end-to-end data engineering project that automates e-commerce data extraction,
+    transformation, and loading using AWS serverless services, Python, and cloud-native
+    architecture for scalable, event-driven data processing.
+  </span><br/>
+  <a href="https://github.com/hemendra-opensource/serverless-ecommerce-etl-pipeline" target="_blank">📁 Repo</a>
+</li>
 </ul>
 
 <hr/>
