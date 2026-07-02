@@ -22,13 +22,14 @@
  <h2 align="center" style="color:#2f80ed;">👨‍💻 About Me</h2>
 
 <p align="left">
-💻 Aspiring Full Stack Developer focused on Java, React & modern web technologies<br/>
-🐍 Expanding skills in Python and exploring Data Engineering concepts<br/>
-🧠 Passionate about Data Structures & Problem Solving (DSA)<br/>
-🏆 Hackathon Participant & active learner in real-world development practices<br/>
-🤖 Exploring AI tools and integrating them into practical applications<br/>
-📊 Building a foundation in data pipelines, databases, and scalable systems<br/>
-🚀 Focused on creating impactful, real-world solutions
+▸ 𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in Java, React, Spring Boot & modern web technologies  <br>
+▸ Learning 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, and 𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴 through real-world projects   <br>
+▸ Passionate about 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 (𝗗𝗦𝗔) and software engineering best practices   <br>
+▸ Building 𝗘𝗻𝗱-𝘁𝗼-𝗘𝗻𝗱 Full Stack, Machine Learning, and Data Engineering applications   <br>
+▸ Exploring 𝗔𝗜 & 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 to develop intelligent, practical solutions   <br>
+▸ Strengthening expertise in 𝗦𝗤𝗟, 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀, 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲𝘀, and 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻   <br>
+▸ Active 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 𝗣𝗮𝗿𝘁𝗶𝗰𝗶𝗽𝗮𝗻𝘁 with a continuous learning mindset   <br>
+▸ Committed to building 𝗖𝗹𝗲𝗮𝗻, 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁, and 𝗜𝗺𝗽𝗮𝗰𝘁𝗳𝘂𝗹 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲   <br>
 </p>
 <hr/>
 
@@ -89,7 +90,7 @@
 
 <ul>
   <li>
-  <b>🌐 Personal Portfolio</b><br/>
+  <b> Personal Portfolio -</b><br/>
   <span>
     A modern, responsive portfolio showcasing my projects, technical skills, certifications,
     education, and experience with a clean UI and seamless user experience.
@@ -100,7 +101,7 @@
 <br/>
 
 <li>
-  <b>⚡ Serverless E-Commerce ETL Pipeline</b><br/>
+  <b> Serverless E-Commerce ETL Pipeline -</b><br/>
   <span>
     An end-to-end data engineering project that automates e-commerce data extraction,
     transformation, and loading using AWS serverless services, Python, and cloud-native
