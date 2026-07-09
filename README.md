@@ -121,9 +121,17 @@
 <p>
 These insights represent my coding consistency, repository contributions, and project development activity.
 </p>
- <p>
+ <!-- <p>
 <img src="https://github-readme-stats.vercel.app/api?username=hemendra-opensource&show_icons=true&theme=transparent" width="48%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hemendra-opensource&theme=transparent" width="48%">
+</p> -->
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=hemendra-opensource&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="60%"
+  />
 </p>
 
 <p>
