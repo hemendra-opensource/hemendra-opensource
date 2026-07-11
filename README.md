@@ -163,9 +163,9 @@ These insights represent my coding consistency, repository contributions, and pr
 
 <hr/>
 <!-- CONTACT -->
-<h2 style="color:#2f80ed;">📫 Connect With Me</h2>
+<h2 style="color:#2f80ed;" align="center">📫 Connect With Me</h2>
 
-<p>
+<p align ="center">
   <!-- LinkedIn -->
    <a href="https://github.com/hemendra-opensource" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
