@@ -123,7 +123,7 @@ These insights represent my coding consistency, repository contributions, and pr
 </p>
  <!-- <p>
 <img src="https://github-readme-stats.vercel.app/api?username=hemendra-opensource&show_icons=true&theme=transparent" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hemendra-opensource&theme=transparent" width="48%">
+<img src="https://streak-stats.demolab.com?user=hemendra-opensource&theme=transparent" width="48%" />
 </p> -->
 
 <p align="center">
