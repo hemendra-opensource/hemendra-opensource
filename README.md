@@ -1,199 +1,770 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=Hemendra%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-<h2 align="center">Welcome to my GitHub
-</h2>
+<div align="center">
 
-<h3 align="center">
-    🚀 Full Stack Developer | ☕ Java • 🐍 Python | 🧠 DSA | 📊 Exploring Data Engineering & AI
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Hello+World!+I'm+Hemendra+Sharma;Full+Stack+Developer;AI+Builder+Intern+%40+MirAI;Learning+Data+Engineering;Building+AI+Applications;Open+Source+Enthusiast"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Full+Stack+Developer+in+Progress;Exploring+AI+Tools+%F0%9F%A4%96" />
-</p>
+<h1>👋 Hi, I'm Hemendra Sharma</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hemendra-opensource
-&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<h3> Full Stack Developer • AI Builder Intern • Data Engineering Learner</h3>
 
-<!-- ABOUT -->
- <h2 align="center" style="color:#2f80ed;">👨‍💻 About Me</h2>
+<img src="https://komarev.com/ghpvc/?username=hemendra-opensource&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<p align="left">
-▸ 𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in Java, React, Spring Boot & modern web technologies  <br>
-▸ Learning 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, and 𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴 through real-world projects   <br>
-▸ Passionate about 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 (𝗗𝗦𝗔) and software engineering best practices   <br>
-▸ Building 𝗘𝗻𝗱-𝘁𝗼-𝗘𝗻𝗱 Full Stack, Machine Learning, and Data Engineering applications   <br>
-▸ Exploring 𝗔𝗜 & 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 to develop intelligent, practical solutions   <br>
-▸ Strengthening expertise in 𝗦𝗤𝗟, 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀, 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲𝘀, and 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻   <br>
-▸ Active 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 𝗣𝗮𝗿𝘁𝗶𝗰𝗶𝗽𝗮𝗻𝘁 with a continuous learning mindset   <br>
-▸ Committed to building 𝗖𝗹𝗲𝗮𝗻, 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁, and 𝗜𝗺𝗽𝗮𝗰𝘁𝗳𝘂𝗹 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲   <br>
-</p>
-<hr/>
+<a href="https://github.com/hemendra-opensource">
+<img src="https://img.shields.io/github/followers/hemendra-opensource?label=Followers&style=for-the-badge"/>
+</a>
 
-<!-- TECH STACK -->
-<h2 align="center">🛠 Tech Stack</h2>
+<a href="https://github.com/hemendra-opensource?tab=repositories">
+<img src="https://img.shields.io/github/stars/hemendra-opensource?affiliations=OWNER&style=for-the-badge"/>
+</a>
 
-<!-- Languages -->
-<h3>💻 Languages</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,python,c/c++" />
-</p>
+</div>
 
-<!-- Frontend -->
-<h3>🎨 Frontend</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+---
 
-<!-- Backend -->
-<h3>⚙️ Backend</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+# 💫 About Me
 
-<!-- Database -->
-<h3>🗄️ Databases</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+```yaml
+Name        : Hemendra Sharma
+Education   : B.Tech Computer Science Engineering
+Role        : AI Builder Intern @ MirAI School of Technology
+Current     : Learning Data Engineering
+Location    : India
 
-<!-- Deployment -->
-<h3>☁️ Deployment</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</p>
+Interests:
+  - Artificial Intelligence
+  - Data Engineering
+  - Backend Development
+  - Full Stack Development
+  - Open Source
 
-<!-- Tools -->
-<h3>🧰 Tools & Platforms</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+Currently Working On:
+  - CareerPilot-AI
+  - DeepFake Detection
+  - AI Applications
+```
 
-<!-- AI Tools (separate = smarter branding) -->
-<h3>🤖 Exploring AI</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Gemini-AI-black?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-AI-6B3FA0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grok-AI-000000?style=for-the-badge" />
-</p>
+---
 
-<hr/>
+# 🎯 Current Focus
 
-<hr/>
+<div align="center">
 
-<!-- PROJECTS -->
-<h2 style="color:#2f80ed;">📂 Featured Projects</h2>
+|  Working On |  Learning |  Goal |
+|:-------------:|:-----------:|:-------:|
+|  AI Applications |  Data Engineering |  Data Engineer |
+|  Full Stack Development |  AWS Cloud |  System Design |
+|  Agentic AI |  Advanced SQL |  Open Source |
+|  Personal Projects |  Apache Spark |  Scalable Systems |
 
-<ul>
-  <li>
-  <b> Personal Portfolio -</b><br/>
-  <span>
-    A modern, responsive portfolio showcasing my projects, technical skills, certifications,
-    education, and experience with a clean UI and seamless user experience.
-  </span><br/>
-  <a href="https://hemendra-sharma.netlify.app/" target="_blank">🔗 Live Demo</a>
-</li>
+</div>
 
-<br/>
+---
 
-<li>
-  <b> Serverless E-Commerce ETL Pipeline -</b><br/>
-  <span>
-    An end-to-end data engineering project that automates e-commerce data extraction,
-    transformation, and loading using AWS serverless services, Python, and cloud-native
-    architecture for scalable, event-driven data processing.
-  </span><br/>
-  <a href="https://github.com/hemendra-opensource/serverless-ecommerce-etl-pipeline" target="_blank">📁 Repo</a>
-</li>
-</ul>
+# 📍 Current Journey
 
-<hr/>
+```text
+🟢 AI & LLM Development      ████████████████████ 100%
 
-<!-- GITHUB STATS -->
-<section align="center">
+🟢 Full Stack Development    ██████████████████░ 90%
 
-<h2>📈 GitHub Insights</h2>
+🟡 Data Engineering          ████████████░░░░░░ 60%
+
+🟡 AWS Cloud                 ██████████░░░░░░░░ 50%
+
+🟡 System Design             ███████░░░░░░░░░░░ 35%
+
+🟢 Open Source               ███████████░░░░░░░ 55%
+```
+
+---
+
+# 🎯 2026 Roadmap
+
+<div align="center">
+
+| Quarter | 🎯 Mission | Status |
+|---------|------------|--------|
+| Q1 | Master Python & DSA | ✅ Completed |
+| Q2 | Build AI & Full Stack Projects | ✅ Completed |
+| Q3 | Learn Data Engineering | 🚀 In Progress |
+| Q3 | Master SQL & Apache Spark | 📚 Ongoing |
+| Q4 | AWS & Cloud Engineering | 🎯 Planned |
+| Q4 | Crack Data Engineer Role | ⭐ Target |
+
+</div>
+
+---
+
+# 📌 Current Mission
+
+<div align="center">
+
+###  Becoming a Production-Ready Data Engineer
+
+*"Building scalable software today while preparing for tomorrow's data-driven world."*
+
+</div>
+---
+
+# Terminal
+
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│ ██╗  ██╗███████╗███╗   ███╗███████╗███╗   ██╗██████╗ ██████╗  █████╗     │
+│ ██║  ██║██╔════╝████╗ ████║██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗    │
+│ ███████║█████╗  ██╔████╔██║█████╗  ██╔██╗ ██║██║  ██║██████╔╝███████║    │
+│ ██╔══██║██╔══╝  ██║╚██╔╝██║██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗██╔══██║    │
+│ ██║  ██║███████╗██║ ╚═╝ ██║███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║    │
+│ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    │
+│                                                                          │
+│                        H E M E N D R A   S H A R M A                     │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+
+
+hemendra@github
+──────────────────────────────────────────────────────────────────────────────
+
+OS              : Windows 11 Pro x64
+Host            : B.Tech Computer Science Engineering
+Kernel          : MirAI AI Builder Internship
+Terminal        : Windows Terminal
+Shell           : PowerShell
+Editor          : Visual Studio Code
+
+──────────────────────────────────────────────────────────────────────────────
+
+👤 USER
+
+Name            : Hemendra Sharma
+Role            : Full Stack Developer
+Status          : AI Builder Intern
+Location        : India
+
+──────────────────────────────────────────────────────────────────────────────
+
+💻 LANGUAGES
+
+• Python
+• Java
+• JavaScript
+• SQL
+• HTML5
+• CSS3
+
+──────────────────────────────────────────────────────────────────────────────
+
+⚙️ FRAMEWORKS
+
+• React.js
+• Node.js
+• Express.js
+• Tailwind CSS
+• Bootstrap
+
+──────────────────────────────────────────────────────────────────────────────
+
+🗄 DATABASES
+
+• MongoDB
+• MySQL
+
+──────────────────────────────────────────────────────────────────────────────
+
+☁️ CLOUD & TOOLS
+
+• AWS
+• Git
+• GitHub
+• VS Code
+• Postman
+
+──────────────────────────────────────────────────────────────────────────────
+
+📚 CURRENTLY LEARNING
+
+→ Data Engineering
+→ Apache Spark
+→ SQL Optimization
+→ Agentic AI
+→ AWS Services
+
+──────────────────────────────────────────────────────────────────────────────
+
+🚀 CURRENT PROJECTS
+
+✔ CareerPilot-AI
+✔ DeepFake Detection
+✔ AI Applications
+✔ Data Engineering Projects
+
+──────────────────────────────────────────────────────────────────────────────
+
+🎯 LIFE MOTTO
+
+while(alive){
+    learn();
+    build();
+    improve();
+}
+
+──────────────────────────────────────────────────────────────────────────────
+```
+
+---
+
+<div align="center">
+
+### ⚡ Developer Mode
+
+> *"Turning ideas into scalable software, one commit at a time."*
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
 
 <p>
-These insights represent my coding consistency, repository contributions, and project development activity.
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql" />
 </p>
- <!-- <p>
-<img src="https://github-readme-stats.vercel.app/api?username=hemendra-opensource&show_icons=true&theme=transparent" width="48%">
-<img src="https://streak-stats.demolab.com?user=hemendra-opensource&theme=transparent" width="48%" />
-</p> -->
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=hemendra-opensource&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-    width="60%"
-  />
-</p>
+---
+
+### ⚛️ Frontend Development
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemendra-opensource&theme=transparent" width="96%">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
 </p>
+
+---
+
+### 🛠️ Backend Development
 
 <p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemendra-opensource&theme=github-compact" width="96%">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-</section>
+---
 
-<hr>
+### 🗄️ Databases
 
-<!-- <h2>📅 Contribution Calendar</h2>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/hemendra-opensource" alt="GitHub Contribution Chart" />
-</p> -->
-<h2 align="center">📅 Contribution Calendar</h2>
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/hemendra-opensource"
-    alt="GitHub Contribution Chart"
-    width="100%"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-<hr/>
-<!-- CONTACT -->
-<h2 style="color:#2f80ed;" align="center">📫 Connect With Me</h2>
+---
 
-<p align ="center">
-  <!-- LinkedIn -->
-   <a href="https://github.com/hemendra-opensource" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+### ☁️ Cloud & DevOps
 
-  <!-- Twitter -->
-  <a href="https://x.com/Hemendr14686586" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-
-  <!-- Email -->
-  <a href="sharmahemendra005@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-<!-- Leetcode -->
-   <a href="https://leetcode.com/u/hemendra-opensource/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker" />
 </p>
-<hr/>
 
-<!-- FOOTER -->
-<!-- <p align="center" style="color:gray;">
-  ⭐️ From Hemendra | Keep Building 🚀
-</p> -->
+---
 
-<hr/>
+### 🤖 AI / Data Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,github,git,bash" />
+</p>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+|  Domain |  Progress |
+|-----------|-------------|
+|  Advanced Python | █████████░░ 90% |
+|  Data Engineering | ██████░░░░ 60% |
+|  AWS Cloud | █████░░░░░ 50% |
+|  Agentic AI | ███████░░░ 70% |
+|  Generative AI | █████████░ 90% |
+|  System Design | ████░░░░░░ 40% |
+
+</div>
+
+---
+
+# 🎯 Expertise
+
+```text
+Backend Development        ████████████░░░░ 80%
+
+Frontend Development       ███████████░░░░░ 75%
+
+Artificial Intelligence    ███████████░░░░░ 75%
+
+Data Engineering           ██████░░░░░░░░░░ 45%
+
+Cloud Computing            █████░░░░░░░░░░░ 40%
+
+Open Source                ███████░░░░░░░░░ 55%
+```
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 CareerPilot-AI
+AI-powered career guidance platform using multiple AI agents.
+
+**✨ Features**
+-  AI Career Mentor
+-  ATS Resume Analysis
+-  Interview Preparation
+-  Skill Gap Analysis
+-  Personalized Roadmaps
+
+**Tech Stack**
+
+`Python` `Groq` `LangChain`
+`Streamlit` `LLMs`
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎥 DeepFake Detection
+
+Explainable DeepFake Detection using XceptionNet with Grad-CAM.
+
+**✨ Features**
+
+-  Video Detection
+-  Grad-CAM Visualization
+-  Confidence Score
+-  Deep Learning
+-  Explainable AI
+
+**Tech Stack**
+
+`Python`
+`TensorFlow`
+`OpenCV`
+`Streamlit`
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+
+<td>
+
+### 🎨 AI Image Studio
+
+AI Image Generation application with multiple artistic styles.
+
+**Features**
+
+-  AI Art
+-  Style Selection
+-  Fast Generation
+-  AI Powered
+
+**Tech**
+
+`Python`
+`Streamlit`
+`API`
+
+</td>
+
+<td>
+
+### 📚 EduPath-AI
+
+AI-powered education platform for students.
+
+**Features**
+
+-  Resume Builder
+-  Quiz System
+-  AI Practice
+-  Career Guidance
+
+**Tech**
+
+`React`
+`Node.js`
+`MongoDB`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 Experience
+
+## 🤖 AI Builder Intern
+
+**MirAI School of Technology**
+
+📅 2026 — Present
+
+### Responsibilities
+
+- 🚀 Building AI-powered applications
+- 💻 Developing Full Stack Projects
+- 🤖 Working with LLM APIs
+- 📊 Building Interactive Streamlit Apps
+- 🧠 Prompt Engineering
+- ⚡ API Integrations
+- 🛠️ Project Development
+
+---
+
+# 🏆 Certifications
+
+<table>
+
+<tr>
+<td>☁️ AWS Certified</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>🤖 Oracle AI Foundations Associate</td>
+<td>✅ Certified</td>
+</tr>
+
+<tr>
+<td>🧠 Generative AI Mastermind</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>💻 GUVI x HCL</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>📚 Simplilearn</td>
+<td>✅ Completed</td>
+</tr>
+
+</table>
+
+---
+
+# 🏅 Achievements
+
+- 🏆 AI Builder Intern @ MirAI School of Technology
+- 🎖 Oracle Certified AI Foundations Associate
+- 🚀 Built Multiple AI Applications
+- 📊 Exploring Data Engineering
+- 💻 Open Source Contributor
+- 🎯 Full Stack Developer
+- 📚 Continuous Learner
+
+---
+
+# 📈 2026 Roadmap
+
+```text
+████████████████████░░░░░░░░░░░░░░░
+
+✔ Full Stack Development
+
+███████████████░░░░░░░░░░░░░░░░░░░░
+
+✔ Artificial Intelligence
+
+██████████░░░░░░░░░░░░░░░░░░░░░░░░░
+
+✔ Data Engineering
+
+███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+✔ AWS Cloud
+
+█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+✔ System Design
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hemendra-opensource&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=hemendra-opensource&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemendra-opensource&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hemendra-opensource/hemendra-opensource/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **⚠️ Note:** The snake animation requires a GitHub Action to generate the SVG. If you don't set up the workflow, this image won't appear.
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/hemendra-opensource/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/sharmahem54se">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<!-- <a href="https://www.codechef.com/users/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a> -->
+
+</div>
+
+---
+
+# 📅 GitHub Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/hemendra-opensource" alt="GitHub Contribution Chart"/>
+
+</div>
+---
+
+# 📌 Profile Summary
+
+<div align="center">
+
+| 💡 Metric | 📊 Status |
+|-----------|-----------|
+| 💻 Full Stack | ✅ Active |
+| 🤖 AI Development | ✅ Active |
+| 📊 Data Engineering | 🚀 Learning |
+| ☁️ AWS Cloud | 🚀 Learning |
+| 🧠 Open Source | ❤️ Contributor |
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hemendra-opensource&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://hemendra-sharma.netlify.app/">
+<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hemendra-sharma60/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="sharmahemendra005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hemendra-opensource">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 📅 My Learning Roadmap
+
+```text
+2026 Goals
+
+████████████████████████████████████  Full Stack Development        
+
+████████████████████████████████░░░░  Artificial Intelligence       
+
+██████████████████████████░░░░░░░░░░  Data Engineering             
+
+███████████████████████░░░░░░░░░░░░░  AWS Cloud                   
+
+█████████████████░░░░░░░░░░░░░░░░░░░  Open Source                 
+
+█████████████░░░░░░░░░░░░░░░░░░░░░░░  System Design               
+```
+
+---
+
+# 🎵 Currently Listening
+
+<div align="center">
+
+> 🎧 *Music fuels my coding sessions.*
+
+*(Optional: Add your Spotify "Now Playing" widget here.)*
+
+</div>
+
+---
+
+# 💡 Fun Fact
+
+```text
+while(alive){
+
+    eat();
+
+    code();
+
+    debug();
+
+    learn();
+
+    sleep();
+
+    repeat();
+
+}
+```
+
+---
+
+# 💻 Daily Motivation
+
+<div align="center">
+
+> **"The best way to predict the future is to build it."**
+
+</div>
+
+---
+
+# ☕ Support
+
+<div align="center">
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+It motivates me to keep building open-source projects.
+
+⭐ ⭐ ⭐ ⭐ ⭐
+
+</div>
+
+---
+
+# 📌 Featured Repositories
+
+<div align="center">
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 🎯 CareerPilot-AI | AI-powered Career Guidance Platform |
+| 🎥 DeepFake Detection | Explainable AI using XceptionNet + Grad-CAM |
+| 📚 EduPath-AI | AI Learning Platform |
+| 🎨 AI Image Studio | AI Image Generation Application |
+| 🌐 Portfolio | Personal Developer Portfolio |
+
+</div>
+
+---
+
+# 📈 GitHub Profile Summary
+
+<div align="center">
+
+```text
+Languages      ████████████████░░░░ 80%
+
+Frontend       ██████████████░░░░░░ 70%
+
+Backend        ███████████████░░░░░ 75%
+
+Artificial AI  ███████████████░░░░░ 75%
+
+Data Engg.     ████████░░░░░░░░░░░░ 45%
+
+Cloud          ██████░░░░░░░░░░░░░░ 35%
+```
+
+</div>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00C9FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Innovate.;Full+Stack+Developer+in+Progress...;Always+Learning+🚀" />
@@ -205,6 +776,16 @@ These insights represent my coding consistency, repository contributions, and pr
   <img src="https://img.shields.io/badge/Learning-AI%20Tools-orange?style=for-the-badge" />
 </p>
 
-<p align="center">
-  ⭐️ <b>Thanks for visiting!</b> Let’s connect & build something impactful 🚀
-</p>
+# 💚 Thanks for Visiting
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Happy+Coding!;Let's+Build+Something+Amazing+Together!;See+You+Again!"/>
+
+<br><br>
+
+### ⭐ Don't forget to check out my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
