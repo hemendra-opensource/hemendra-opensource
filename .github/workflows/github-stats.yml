@@ -1,4 +1,4 @@
-name: Update GitHub Stats
+name: Generate GitHub Analytics
 
 on:
   schedule:
@@ -9,25 +9,152 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate-stats:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
 
-      - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@v2
+      # 1. Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Generate Streak Card
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          card: stats
-          options: username=hemendra-opensource&show_icons=true&theme=github_dark&hide_border=true
-          path: profile/stats.svg
+          options: >-
+            user=${{ github.repository_owner }}&theme=highcontrast&hide_border=true&background=000000&border=444444&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999&disable_animations=true
+          path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit Stats
+      # 3. Generate Most Used Languages
+      - name: Generate Language Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: >-
+            username=${{ github.repository_owner }}&layout=compact&theme=github_dark&hide_border=true&title_color=F59E0B&text_color=FFFFFF&langs_count=6
+          path: profile/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 4. Combine both SVGs into ONE image
+      - name: Create Combined Stats Card
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          NS = "http://www.w3.org/2000/svg"
+          ET.register_namespace("", NS)
+
+          def load_svg(path):
+              root = ET.parse(path).getroot()
+
+              width = root.get("width", "500")
+              height = root.get("height", "200")
+
+              try:
+                  width = float(str(width).replace("px", ""))
+              except:
+                  width = 500
+
+              try:
+                  height = float(str(height).replace("px", ""))
+              except:
+                  height = 200
+
+              group = ET.Element(f"{{{NS}}}g")
+
+              for child in list(root):
+                  group.append(child)
+
+              return group, width, height
+
+          streak, streak_w, streak_h = load_svg("profile/streak.svg")
+          languages, lang_w, lang_h = load_svg("profile/languages.svg")
+
+          target_width = 700
+
+          streak_scale = target_width / streak_w
+          lang_scale = target_width / lang_w
+
+          streak_h_scaled = streak_h * streak_scale
+          lang_h_scaled = lang_h * lang_scale
+
+          gap = 25
+          total_height = streak_h_scaled + lang_h_scaled + gap + 70
+
+          svg = ET.Element(
+              f"{{{NS}}}svg",
+              {
+                  "xmlns": NS,
+                  "width": str(int(target_width)),
+                  "height": str(int(total_height)),
+                  "viewBox": f"0 0 {int(target_width)} {int(total_height)}"
+              }
+          )
+
+          # Background
+          ET.SubElement(
+              svg,
+              f"{{{NS}}}rect",
+              {
+                  "x": "0",
+                  "y": "0",
+                  "width": str(int(target_width)),
+                  "height": str(int(total_height)),
+                  "fill": "#0D1117",
+                  "rx": "10"
+              }
+          )
+
+          # Title
+          title = ET.SubElement(
+              svg,
+              f"{{{NS}}}text",
+              {
+                  "x": "25",
+                  "y": "42",
+                  "fill": "#F59E0B",
+                  "font-family": "Arial, sans-serif",
+                  "font-size": "22",
+                  "font-weight": "bold"
+              }
+          )
+          title.text = "🔥 My Stats"
+
+          # Streak
+          streak.set(
+              "transform",
+              f"translate(0,55) scale({streak_scale})"
+          )
+          svg.append(streak)
+
+          # Languages
+          languages.set(
+              "transform",
+              f"translate(0,{55 + streak_h_scaled + gap}) scale({lang_scale})"
+          )
+          svg.append(languages)
+
+          ET.ElementTree(svg).write(
+              "profile/my-stats.svg",
+              encoding="utf-8",
+              xml_declaration=True
+          )
+
+          print("Created profile/my-stats.svg")
+          PY
+
+      # 5. Commit generated SVG
+      - name: Commit Generated Stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg
-          git commit -m "Update GitHub stats" || exit 0
+
+          git add profile/streak.svg
+          git add profile/languages.svg
+          git add profile/my-stats.svg
+
+          git commit -m "Update GitHub analytics" || exit 0
           git push
