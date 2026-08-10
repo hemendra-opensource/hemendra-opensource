@@ -531,12 +531,11 @@ AI-powered education platform for students.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hemendra-opensource&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hemendra-opensource&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=hemendra-opensource&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=hemendra-opensource&theme=github-dark-blue&hide_border=true" />
 
 </div>
-
 ---
 
 # 📊 GitHub Activity Graph
