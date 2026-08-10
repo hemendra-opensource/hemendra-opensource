@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="700" height="755" viewBox="0 0 700 755"><rect x="0" y="0" width="700" height="755" fill="#0D1117" rx="10" /><text x="25" y="42" fill="#F59E0B" font-family="Arial, sans-serif" font-size="22" font-weight="bold">🔥 My Stats</text><g transform="translate(0,55) scale(1.4141414141414141)"><defs>
+            <clipPath id="outer_rectangle">
+                <rect width="495" height="195" rx="4.5" />
+            </clipPath>
+            <mask id="mask_out_ring_behind_fire">
+                <rect width="495" height="195" fill="white" />
+                <ellipse id="mask-ellipse" cx="247.5" cy="32" rx="13" ry="18" fill="black" />
+            </mask>
+            
+        </defs>
+        <g clip-path="url(#outer_rectangle)">
+            <g style="isolation: isolate">
+                <rect stroke="#000000" stroke-opacity="0" fill="#000000" rx="4.5" x="0.5" y="0.5" width="494" height="194" />
+            </g>
+            <g style="isolation: isolate">
+                <line x1="165" y1="28" x2="165" y2="170" vector-effect="non-scaling-stroke" stroke-width="1" stroke="#BEBEBE" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" />
+                <line x1="330" y1="28" x2="330" y2="170" vector-effect="non-scaling-stroke" stroke-width="1" stroke="#BEBEBE" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" />
+            </g>
+            <g style="isolation: isolate">
+                
+                <g transform="translate(82.5, 48)">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#ffffff" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="opacity: 1; opacity: 1;">
+                        92
+                    </text>
+                </g>
+
+                
+                <g transform="translate(82.5, 84)">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#ffffff" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="14px" font-style="normal" style="opacity: 1; opacity: 1;">
+                        Total Contributions
+                    </text>
+                </g>
+
+                
+                <g transform="translate(82.5, 114)">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#999999" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="12px" font-style="normal" style="opacity: 1; opacity: 1;">
+                        Aug 2, 2025 - Present
+                    </text>
+                </g>
+            </g>
+            <g style="isolation: isolate">
+                
+                <g transform="translate(247.5, 108)">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#f59e0b" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="14px" font-style="normal" style="opacity: 1; opacity: 1;">
+                        Current Streak
+                    </text>
+                </g>
+
+                
+                <g transform="translate(247.5, 145)">
+                    <text x="0" y="21" stroke-width="0" text-anchor="middle" fill="#999999" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="12px" font-style="normal" style="opacity: 1; opacity: 1;">
+                        Aug 10
+                    </text>
+                </g>
+
+                
+                <g mask="url(#mask_out_ring_behind_fire)">
+                    <circle cx="247.5" cy="71" r="40" fill="none" stroke="#f59e0b" stroke-width="5" style="opacity: 1; opacity: 1;" />
+                </g>
+                
+                <g transform="translate(247.5, 19.5)" stroke-opacity="0" style="opacity: 1; opacity: 1;">
+                    <path d="M -12 -0.5 L 15 -0.5 L 15 23.5 L -12 23.5 L -12 -0.5 Z" fill="none" />
+                    <path d="M 1.5 0.67 C 1.5 0.67 2.24 3.32 2.24 5.47 C 2.24 7.53 0.89 9.2 -1.17 9.2 C -3.23 9.2 -4.79 7.53 -4.79 5.47 L -4.76 5.11 C -6.78 7.51 -8 10.62 -8 13.99 C -8 18.41 -4.42 22 0 22 C 4.42 22 8 18.41 8 13.99 C 8 8.6 5.41 3.79 1.5 0.67 Z M -0.29 19 C -2.07 19 -3.51 17.6 -3.51 15.86 C -3.51 14.24 -2.46 13.1 -0.7 12.74 C 1.07 12.38 2.9 11.53 3.92 10.16 C 4.31 11.45 4.51 12.81 4.51 14.2 C 4.51 16.85 2.36 19 -0.29 19 Z" fill="#f59e0b" stroke-opacity="0" />
+                </g>
+
+                
+                <g transform="translate(247.5, 48)">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#ffffff" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="font-size: 28px;">
+                        1
+                    </text>
+                </g>
+
+            </g>
+            <g style="isolation: isolate">
+                
+                <g transform="translate(412.5, 48)">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#ffffff" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="opacity: 1; opacity: 1;">
+                        12
+                    </text>
+                </g>
+
+                
+                <g transform="translate(412.5, 84)">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#ffffff" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="14px" font-style="normal" style="opacity: 1; opacity: 1;">
+                        Longest Streak
+                    </text>
+                </g>
+
+                
+                <g transform="translate(412.5, 114)">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#999999" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="12px" font-style="normal" style="opacity: 1; opacity: 1;">
+                        Jul 1 - Jul 12
+                    </text>
+                </g>
+            </g>
+            
+        </g>
+    </g><g transform="translate(0,355.75757575757575) scale(2.3333333333333335)"><title id="titleId" />
+        <desc id="descId" />
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #F59E0B;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    @keyframes slideInAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: calc(100%-100px);
+      }
+    }
+    @keyframes growWidthAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #FFFFFF;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
+    }
+    .bold { font-weight: 700 }
+    .lang-name {
+      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
+      fill: #FFFFFF;
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    #rect-mask rect{
+      animation: slideInAnimation 1s ease-in-out forwards;
+    }
+    .lang-progress{
+      animation: growWidthAnimation 0.6s ease-in-out forwards;
+    }
+    
+
+          
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
+      }
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+    
+          
+        </style>
+
+        
+
+        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="299" fill="#0D1117" stroke-opacity="0" />
+
+        
+      <g data-testid="card-title" transform="translate(25, 35)">
+        <g transform="translate(0, 0)">
+      <text x="0" y="0" class="header" data-testid="header">Most Used Languages</text>
+    </g>
+      </g>
+    
+
+        <g data-testid="main-card-body" transform="translate(0, 55)">
+          
+    <svg data-testid="lang-items" x="25">
+      
+  
+      <mask id="rect-mask">
+          <rect x="0" y="0" width="250" height="8" fill="white" rx="5" />
+        </mask>
+        
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="0" y="0" width="141.27" height="8" fill="#3572A5" />
+      
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="141.27" y="0" width="94.66" height="8" fill="#f1e05a" />
+      
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="235.93" y="0" width="17.58" height="8" fill="#DA5B0B" />
+      
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="243.51000000000002" y="0" width="15.26" height="8" fill="#663399" />
+      
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="248.77" y="0" width="11.01" height="8" fill="#e34c26" />
+      
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="249.78" y="0" width="10.22" height="8" fill="#C1F12E" />
+      
+      
+    <g transform="translate(0, 25)">
+      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        Python 56.51%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        JavaScript 37.86%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        Jupyter Notebook 3.03%
+      </text>
+    </g>
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        CSS 2.10%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        HTML 0.40%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#C1F12E" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        Batchfile 0.09%
+      </text>
+    </g>
+  </g></g>
+    </g>
+  
+    </svg>
+  
+        </g>
+      </g></svg>
