@@ -50,7 +50,7 @@
                 
                 <g transform="translate(247.5, 145)">
                     <text x="0" y="21" stroke-width="0" text-anchor="middle" fill="#999999" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="12px" font-style="normal" style="opacity: 1; opacity: 1;">
-                        Sep 8
+                        Sep 9
                     </text>
                 </g>
 
@@ -147,7 +147,9 @@
     .lang-progress{
       animation: growWidthAnimation 0.6s ease-in-out forwards;
     }
+    .progress-background { fill: #ddd; }
     
+          
 
           
       /* Animations */
@@ -172,8 +174,13 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
-        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="299" fill="#0D1117" stroke-opacity="0" />
+        <rect data-testid="card-bg" class="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="299" fill="#0D1117" stroke-opacity="0" />
 
         
       <g data-testid="card-title" transform="translate(25, 35)">
