@@ -148,39 +148,53 @@ I enjoy designing practical solutions, building scalable applications, working w
 ---
 
 
----
-
 ## 💻 Current Technical Focus
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <h3>Programming</h3>
-      Python<br/>Java<br/>JavaScript<br/>SQL
+      Python<br/>
+      Java<br/>
+      JavaScript<br/>
+      SQL
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <h3>Data Engineering</h3>
-      ETL Pipelines<br/>Data Processing<br/>Pandas
+      ETL Pipelines<br/>
+      Data Processing<br/>
+      Pandas
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <h3>Big Data</h3>
-      Apache Spark<br/>PySpark
+      Apache Spark<br/>
+      PySpark
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <h3>Cloud Computing</h3>
-      AWS<br/>Amazon S3<br/>Lambda<br/>DynamoDB<br/>IAM
+      AWS<br/>
+      Amazon S3<br/>
+      AWS Lambda<br/>
+      DynamoDB<br/>
+      IAM
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <h3>Backend Development</h3>
-      Node.js<br/>Express.js<br/>REST APIs
+      Node.js<br/>
+      Express.js<br/>
+      REST APIs
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <h3>Databases & Core CS</h3>
-      MongoDB<br/>MySQL<br/>PostgreSQL<br/>DSA · OOP · DBMS · OS · CN
+      MongoDB<br/>
+      MySQL<br/>
+      PostgreSQL<br/>
+      DSA · OOP · DBMS<br/>
+      OS · Computer Networks
     </td>
   </tr>
 </table>
@@ -221,12 +235,6 @@ I enjoy designing practical solutions, building scalable applications, working w
 </table>
 
 </div>
-
----
-
-
----
-
 
 ---
 
@@ -284,8 +292,6 @@ I use GitHub to document my engineering work, experiment with technologies, and 
 *Contribution statistics, activity, streaks, and repository insights.*
 
 <br/>
-
-
 
 ## GitHub Profile Metrics & Connect
 
