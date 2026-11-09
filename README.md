@@ -1,788 +1,209 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Hello+World!+I'm+Hemendra+Sharma;Full+Stack+Developer;AI+Builder+Intern+%40+MirAI;Learning+Data+Engineering;Building+AI+Applications;Open+Source+Enthusiast"/>
+# Hemendra Sharma
 
-<h1>👋 Hi, I'm Hemendra Sharma</h1>
+### Software Developer | Data Engineering | Backend Development
 
-<h3> Full Stack Developer • AI Builder Intern • Data Engineering Learner</h3>
+Building software applications, backend systems, and data-driven solutions.
 
-<img src="https://komarev.com/ghpvc/?username=hemendra-opensource&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<a href="https://github.com/hemendra-opensource">
-<img src="https://img.shields.io/github/followers/hemendra-opensource?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/hemendra-opensource?tab=repositories">
-<img src="https://img.shields.io/github/stars/hemendra-opensource?affiliations=OWNER&style=for-the-badge"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hemendra-sharma.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemendra-sharma60)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemendra-opensource)
 
 </div>
 
 ---
 
-# 💫 About Me
+## About Me
 
-```yaml
-Name        : Hemendra Sharma
-Education   : B.Tech Computer Science Engineering
-Role        : AI Builder Intern @ MirAI School of Technology
-Current     : Learning Data Engineering
-Location    : India
+I am a Computer Science Engineering student passionate about software development, backend engineering, and data engineering.
 
-Interests:
-  - Artificial Intelligence
-  - Data Engineering
-  - Backend Development
-  - Full Stack Development
-  - Open Source
+I enjoy designing practical solutions, building scalable applications, working with cloud technologies, and solving technical problems through hands-on development.
 
-Currently Working On:
-  - CareerPilot-AI
-  - DeepFake Detection
-  - AI Applications
-```
+- 🎓 B.Tech in Computer Science Engineering
+- 💻 Interested in Software Engineering and Backend Development
+- 🐍 Working with Python, Java, JavaScript, and SQL
+- ☁️ Exploring AWS cloud services and serverless architectures
+- 📊 Building ETL pipelines and exploring Apache Spark and PySpark
+- 🤖 Exploring Generative AI, LLM integrations, and AI-powered applications
+- 🌱 Focused on continuous learning and practical engineering.
 
 ---
 
-# 🎯 Current Focus
+## Technical Skills
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Data Engineering & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 1. Serverless E-Commerce ETL Pipeline
+
+**Python | AWS S3 | AWS Lambda | DynamoDB | CloudWatch | IAM**
+
+- Designed a serverless ETL workflow for processing e-commerce data.
+- Used Amazon S3 for data ingestion and storage.
+- Implemented AWS Lambda for event-driven data processing.
+- Stored processed records in DynamoDB.
+- Used CloudWatch for monitoring and execution logs.
+
+[View Repository](https://github.com/hemendra-opensource/serverless-ecommerce-etl-pipeline)
+
+### 2. CareerPilot AI — Agentic AI Career Mentor
+
+**Python | Streamlit | Groq | LLMs**
+
+- Developed an AI-powered career guidance application.
+- Implemented resume parsing and ATS scoring functionality.
+- Integrated LLM capabilities for personalized career guidance.
+- Designed workflows for interview preparation and career recommendations.
+
+[View Repository](https://github.com/hemendra-opensource/CareerPilot-AgenticAI)
+
+### 3. Multi-Source REST API ETL Pipeline
+
+**Python | REST APIs | JSON | CSV | Data Processing**
+
+- Built an ETL workflow to collect data from multiple REST APIs.
+- Worked with structured and semi-structured data formats.
+- Explored data transformation and pipeline orchestration.
+- Designed the pipeline for further integration with databases and cloud storage.
+
+[View Repository](https://github.com/hemendra-opensource/AirFlow_DE)
+
+### 4. CRM Backend Prototype
+
+**MongoDB | Express.js | Node.js | JWT | Redis | AWS**
+
+- Developed a backend prototype for customer relationship management.
+- Worked on authentication and role-based access control.
+- Designed modules for leads, contacts, opportunities, and follow-ups.
+- Explored scalable backend architecture and service integrations.
+
+[View Repository](https://github.com/hemendra-opensource/CRM_Prototype)
+
+---
+
+## Professional Experience
+
+### AI Builder Intern — MirAI School of Technology
+
+- Developed AI-powered application prototypes.
+- Worked with LLM APIs and prompt engineering.
+- Integrated AI capabilities into interactive applications.
+- Built application workflows using Python and Streamlit.
+
+### Frontend Developer Intern — Code-A-Nova
+
+**January 2026 – April 2026**
+
+- Worked on frontend application development.
+- Practiced component-based development and responsive UI implementation.
+- Applied modern frontend development practices.
+
+---
+
+## Current Technical Focus
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, Java, JavaScript, SQL |
+| Data Engineering | ETL, Data Processing, Pandas |
+| Big Data | Apache Spark, PySpark |
+| Cloud | AWS, S3, Lambda, DynamoDB, IAM |
+| Backend | Node.js, Express.js, REST APIs |
+| Databases | MongoDB, MySQL, PostgreSQL |
+| Core CS | DSA, OOP, DBMS, OS, Computer Networks |
+
+---
+
+## Certifications & Learning
+
+- AWS Academy Cloud Foundations
+- AWS Solutions Architect learning and preparation
+- Oracle Cloud Infrastructure AI Foundations
+- Generative AI and Gemini Workspace — Simplilearn
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-|  Working On |  Learning |  Goal |
-|:-------------:|:-----------:|:-------:|
-|  AI Applications |  Data Engineering |  Data Engineer |
-|  Full Stack Development |  AWS Cloud |  System Design |
-|  Agentic AI |  Advanced SQL |  Open Source |
-|  Personal Projects |  Apache Spark |  Scalable Systems |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hemendra-opensource&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemendra-opensource&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=hemendra-opensource&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-# 📍 Current Journey
-
-```text
-🟢 AI & LLM Development      ████████████████████ 100%
-
-🟢 Full Stack Development    ██████████████████░ 90%
-
-🟡 Data Engineering          ████████████░░░░░░ 60%
-
-🟡 AWS Cloud                 ██████████░░░░░░░░ 50%
-
-🟡 System Design             ███████░░░░░░░░░░░ 35%
-
-🟢 Open Source               ███████████░░░░░░░ 55%
-```
-
----
-
-# 🎯 2026 Roadmap
+## Connect With Me
 
 <div align="center">
 
-| Quarter | 🎯 Mission | Status |
-|---------|------------|--------|
-| Q1 | Master Python & DSA | ✅ Completed |
-| Q2 | Build AI & Full Stack Projects | ✅ Completed |
-| Q3 | Learn Data Engineering | 🚀 In Progress |
-| Q3 | Master SQL & Apache Spark | 📚 Ongoing |
-| Q4 | AWS & Cloud Engineering | 🎯 Planned |
-| Q4 | Crack Data Engineer Role | ⭐ Target |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemendra_Sharma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemendra-sharma60)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=googlechrome)](https://hemendra-sharma.netlify.app/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hemendra-opensource/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-hemendra--opensource-181717?style=for-the-badge&logo=github)](https://github.com/hemendra-opensource)
 
 </div>
 
 ---
 
-# 📌 Current Mission
-
 <div align="center">
 
-###  Becoming a Production-Ready Data Engineer
-
-*"Building scalable software today while preparing for tomorrow's data-driven world."*
-
-</div>
----
-
-# Terminal
-
-```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│ ██╗  ██╗███████╗███╗   ███╗███████╗███╗   ██╗██████╗ ██████╗  █████╗     │
-│ ██║  ██║██╔════╝████╗ ████║██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗    │
-│ ███████║█████╗  ██╔████╔██║█████╗  ██╔██╗ ██║██║  ██║██████╔╝███████║    │
-│ ██╔══██║██╔══╝  ██║╚██╔╝██║██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗██╔══██║    │
-│ ██║  ██║███████╗██║ ╚═╝ ██║███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║    │
-│ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    │
-│                                                                          │
-│                        H E M E N D R A   S H A R M A                     │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-
-
-hemendra@github
-──────────────────────────────────────────────────────────────────────────────
-
-OS              : Windows 11 Pro x64
-Host            : B.Tech Computer Science Engineering
-Kernel          : MirAI AI Builder Internship
-Terminal        : Windows Terminal
-Shell           : PowerShell
-Editor          : Visual Studio Code
-
-──────────────────────────────────────────────────────────────────────────────
-
-👤 USER
-
-Name            : Hemendra Sharma
-Role            : Full Stack Developer
-Status          : AI Builder Intern
-Location        : India
-
-──────────────────────────────────────────────────────────────────────────────
-
-💻 LANGUAGES
-
-• Python
-• Java
-• JavaScript
-• SQL
-• HTML5
-• CSS3
-
-──────────────────────────────────────────────────────────────────────────────
-
-⚙️ FRAMEWORKS
-
-• React.js
-• Node.js
-• Express.js
-• Tailwind CSS
-• Bootstrap
-
-──────────────────────────────────────────────────────────────────────────────
-
-🗄 DATABASES
-
-• MongoDB
-• MySQL
-
-──────────────────────────────────────────────────────────────────────────────
-
-☁️ CLOUD & TOOLS
-
-• AWS
-• Git
-• GitHub
-• VS Code
-• Postman
-
-──────────────────────────────────────────────────────────────────────────────
-
-📚 CURRENTLY LEARNING
-
-→ Data Engineering
-→ Apache Spark
-→ SQL Optimization
-→ Agentic AI
-→ AWS Services
-
-──────────────────────────────────────────────────────────────────────────────
-
-🚀 CURRENT PROJECTS
-
-✔ CareerPilot-AI
-✔ DeepFake Detection
-✔ AI Applications
-✔ Data Engineering Projects
-
-──────────────────────────────────────────────────────────────────────────────
-
-🎯 LIFE MOTTO
-
-while(alive){
-    learn();
-    build();
-    improve();
-}
-
-──────────────────────────────────────────────────────────────────────────────
-```
-
----
-
-<div align="center">
-
-### ⚡ Developer Mode
-
-> *"Turning ideas into scalable software, one commit at a time."*
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql" />
-</p>
-
----
-
-### ⚛️ Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
-</p>
-
----
-
-### 🛠️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
----
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
----
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker" />
-</p>
-
----
-
-### 🤖 AI / Data Engineering
-
-<p>
-
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,github,git,bash" />
-</p>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-|  Domain |  Progress |
-|-----------|-------------|
-|  Advanced Python | █████████░░ 90% |
-|  Data Engineering | ██████░░░░ 60% |
-|  AWS Cloud | █████░░░░░ 50% |
-|  Agentic AI | ███████░░░ 70% |
-|  Generative AI | █████████░ 90% |
-|  System Design | ████░░░░░░ 40% |
-
-</div>
-
----
-
-# 🎯 Expertise
-
-```text
-Backend Development        ████████████░░░░ 80%
-
-Frontend Development       ███████████░░░░░ 75%
-
-Artificial Intelligence    ███████████░░░░░ 75%
-
-Data Engineering           ██████░░░░░░░░░░ 45%
-
-Cloud Computing            █████░░░░░░░░░░░ 40%
-
-Open Source                ███████░░░░░░░░░ 55%
-```
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 CareerPilot-AI
-AI-powered career guidance platform using multiple AI agents.
-
-**✨ Features**
--  AI Career Mentor
--  ATS Resume Analysis
--  Interview Preparation
--  Skill Gap Analysis
--  Personalized Roadmaps
-
-**Tech Stack**
-
-`Python` `Groq` `LangChain`
-`Streamlit` `LLMs`
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🎥 DeepFake Detection
-
-Explainable DeepFake Detection using XceptionNet with Grad-CAM.
-
-**✨ Features**
-
--  Video Detection
--  Grad-CAM Visualization
--  Confidence Score
--  Deep Learning
--  Explainable AI
-
-**Tech Stack**
-
-`Python`
-`TensorFlow`
-`OpenCV`
-`Streamlit`
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-
-<td>
-
-### 🎨 AI Image Studio
-
-AI Image Generation application with multiple artistic styles.
-
-**Features**
-
--  AI Art
--  Style Selection
--  Fast Generation
--  AI Powered
-
-**Tech**
-
-`Python`
-`Streamlit`
-`API`
-
-</td>
-
-<td>
-
-### 📚 EduPath-AI
-
-AI-powered education platform for students.
-
-**Features**
-
--  Resume Builder
--  Quiz System
--  AI Practice
--  Career Guidance
-
-**Tech**
-
-`React`
-`Node.js`
-`MongoDB`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💼 Experience
-
-## 🤖 AI Builder Intern
-
-**MirAI School of Technology**
-
-📅 2026 — Present
-
-### Responsibilities
-
-- 🚀 Building AI-powered applications
-- 💻 Developing Full Stack Projects
-- 🤖 Working with LLM APIs
-- 📊 Building Interactive Streamlit Apps
-- 🧠 Prompt Engineering
-- ⚡ API Integrations
-- 🛠️ Project Development
-
----
-
-# 🏆 Certifications
-
-<table>
-
-<tr>
-<td>☁️ AWS Certified</td>
-<td>✅ Completed</td>
-</tr>
-
-<tr>
-<td>🤖 Oracle AI Foundations Associate</td>
-<td>✅ Certified</td>
-</tr>
-
-<tr>
-<td>🧠 Generative AI Mastermind</td>
-<td>✅ Completed</td>
-</tr>
-
-<tr>
-<td>💻 GUVI x HCL</td>
-<td>✅ Completed</td>
-</tr>
-
-<tr>
-<td>📚 Simplilearn</td>
-<td>✅ Completed</td>
-</tr>
-
-</table>
-
----
-
-# 🏅 Achievements
-
-- 🏆 AI Builder Intern @ MirAI School of Technology
-- 🎖 Oracle Certified AI Foundations Associate
-- 🚀 Built Multiple AI Applications
-- 📊 Exploring Data Engineering
-- 💻 Open Source Contributor
-- 🎯 Full Stack Developer
-- 📚 Continuous Learner
-
----
-
-# 📈 2026 Roadmap
-
-```text
-████████████████████░░░░░░░░░░░░░░░
-
-✔ Full Stack Development
-
-███████████████░░░░░░░░░░░░░░░░░░░░
-
-✔ Artificial Intelligence
-
-██████████░░░░░░░░░░░░░░░░░░░░░░░░░
-
-✔ Data Engineering
-
-███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-✔ AWS Cloud
-
-█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-✔ System Design
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="70%" src="./profile/stats.svg" />
-
-</div>
----
-
-# 📊 GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemendra-opensource&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hemendra-opensource/hemendra-opensource/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **⚠️ Note:** The snake animation requires a GitHub Action to generate the SVG. If you don't set up the workflow, this image won't appear.
-
----
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/hemendra-opensource/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/sharmahem54se">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<!-- <a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a> -->
-
-</div>
-
----
-
-# 📅 GitHub Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/hemendra-opensource" alt="GitHub Contribution Chart"/>
-
-</div>
----
-
-# 📌 Profile Summary
-
-<div align="center">
-
-| 💡 Metric | 📊 Status |
-|-----------|-----------|
-| 💻 Full Stack | ✅ Active |
-| 🤖 AI Development | ✅ Active |
-| 📊 Data Engineering | 🚀 Learning |
-| ☁️ AWS Cloud | 🚀 Learning |
-| 🧠 Open Source | ❤️ Contributor |
-
-</div>
-
----
-
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=hemendra-opensource&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://hemendra-sharma.netlify.app/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hemendra-sharma60/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="sharmahemendra005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hemendra-opensource">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# 📅 My Learning Roadmap
-
-```text
-2026 Goals
-
-████████████████████████████████████  Full Stack Development        
-
-████████████████████████████████░░░░  Artificial Intelligence       
-
-██████████████████████████░░░░░░░░░░  Data Engineering             
-
-███████████████████████░░░░░░░░░░░░░  AWS Cloud                   
-
-█████████████████░░░░░░░░░░░░░░░░░░░  Open Source                 
-
-█████████████░░░░░░░░░░░░░░░░░░░░░░░  System Design               
-```
-
----
-
-# 🎵 Currently Listening
-
-<div align="center">
-
-> 🎧 *Music fuels my coding sessions.*
-
-*(Optional: Add your Spotify "Now Playing" widget here.)*
-
-</div>
-
----
-
-# 💡 Fun Fact
-
-```text
-while(alive){
-
-    eat();
-
-    code();
-
-    debug();
-
-    learn();
-
-    sleep();
-
-    repeat();
-
-}
-```
-
----
-
-# 💻 Daily Motivation
-
-<div align="center">
-
-> **"The best way to predict the future is to build it."**
-
-</div>
-
----
-
-# ☕ Support
-
-<div align="center">
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-It motivates me to keep building open-source projects.
-
-⭐ ⭐ ⭐ ⭐ ⭐
-
-</div>
-
----
-
-# 📌 Featured Repositories
-
-<div align="center">
-
-| 🚀 Project | Description |
-|------------|-------------|
-| 🎯 CareerPilot-AI | AI-powered Career Guidance Platform |
-| 🎥 DeepFake Detection | Explainable AI using XceptionNet + Grad-CAM |
-| 📚 EduPath-AI | AI Learning Platform |
-| 🎨 AI Image Studio | AI Image Generation Application |
-| 🌐 Portfolio | Personal Developer Portfolio |
-
-</div>
-
----
-
-# 📈 GitHub Profile Summary
-
-<div align="center">
-
-```text
-Languages      ████████████████░░░░ 80%
-
-Frontend       ██████████████░░░░░░ 70%
-
-Backend        ███████████████░░░░░ 75%
-
-Artificial AI  ███████████████░░░░░ 75%
-
-Data Engg.     ████████░░░░░░░░░░░░ 45%
-
-Cloud          ██████░░░░░░░░░░░░░░ 35%
-```
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00C9FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Innovate.;Full+Stack+Developer+in+Progress...;Always+Learning+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-AI%20Tools-orange?style=for-the-badge" />
-</p>
-
-# 💚 Thanks for Visiting
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Happy+Coding!;Let's+Build+Something+Amazing+Together!;See+You+Again!"/>
-
-<br><br>
-
-### ⭐ Don't forget to check out my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+**Building. Learning. Solving Problems. Improving Every Day.**
 
 </div>
