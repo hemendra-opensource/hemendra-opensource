@@ -147,56 +147,193 @@ I enjoy designing practical solutions, building scalable applications, working w
 
 ---
 
-## Current Technical Focus
-
-| Area | Technologies |
-|---|---|
-| Programming | Python, Java, JavaScript, SQL |
-| Data Engineering | ETL, Data Processing, Pandas |
-| Big Data | Apache Spark, PySpark |
-| Cloud | AWS, S3, Lambda, DynamoDB, IAM |
-| Backend | Node.js, Express.js, REST APIs |
-| Databases | MongoDB, MySQL, PostgreSQL |
-| Core CS | DSA, OOP, DBMS, OS, Computer Networks |
 
 ---
 
-## Certifications & Learning
-
-- AWS Academy Cloud Foundations
-- AWS Solutions Architect learning and preparation
-- Oracle Cloud Infrastructure AI Foundations
-- Generative AI and Gemini Workspace — Simplilearn
-
----
-
-## GitHub Statistics
+## 💻 Current Technical Focus
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hemendra-opensource&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemendra-opensource&layout=compact&theme=github_dark&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=hemendra-opensource&theme=github-dark-blue&hide_border=true" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Programming</h3>
+      Python<br/>Java<br/>JavaScript<br/>SQL
+    </td>
+    <td align="center" width="33%">
+      <h3>Data Engineering</h3>
+      ETL Pipelines<br/>Data Processing<br/>Pandas
+    </td>
+    <td align="center" width="33%">
+      <h3>Big Data</h3>
+      Apache Spark<br/>PySpark
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Cloud Computing</h3>
+      AWS<br/>Amazon S3<br/>Lambda<br/>DynamoDB<br/>IAM
+    </td>
+    <td align="center" width="33%">
+      <h3>Backend Development</h3>
+      Node.js<br/>Express.js<br/>REST APIs
+    </td>
+    <td align="center" width="33%">
+      <h3>Databases & Core CS</h3>
+      MongoDB<br/>MySQL<br/>PostgreSQL<br/>DSA · OOP · DBMS · OS · CN
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## Connect With Me
+## 🏆 Certifications & Learning
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemendra_Sharma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemendra-sharma60)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/AWS-Academy_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <br/><br/>
+      AWS Academy Cloud Foundations
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/AWS-Solutions_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <br/><br/>
+      AWS Solutions Architecture — Learning & Preparation
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Oracle-Cloud_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+      <br/><br/>
+      Oracle Cloud Infrastructure AI Foundations
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Generative_AI-Gemini_Workspace-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+      <br/><br/>
+      Generative AI & Gemini Workspace — Simplilearn
+    </td>
+  </tr>
+</table>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=googlechrome)](https://hemendra-sharma.netlify.app/)
+</div>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hemendra-opensource/)
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-hemendra--opensource-181717?style=for-the-badge&logo=github)](https://github.com/hemendra-opensource)
+
+---
+
+
+---
+
+## Engineering & Development Practices
+
+I focus on writing maintainable code, understanding system architecture, and building practical solutions.
+
+- **Problem Solving:** Data Structures and Algorithms, logical thinking, debugging.
+- **Database Management:** Database design, CRUD operations, and query optimization fundamentals.
+- **Cloud Development:** Serverless computing, cloud storage, event-driven architecture.
+- **Version Control:** Git workflows, GitHub repositories, branching, and collaboration.
+- **Backend Engineering:** REST API design, authentication, authorization, and application architecture.
+- **Development Workflow:** API testing, debugging, documentation, and iterative development.
+
+---
+
+## Open Source & Collaboration
+
+I use GitHub to document my engineering work, experiment with technologies, and build practical projects.
+
+- Building and maintaining personal development projects.
+- Exploring cloud-based application architectures.
+- Working with APIs and backend integrations.
+- Improving code quality and project documentation.
+- Learning collaborative development workflows.
+
+**Explore my work:** [GitHub Repositories](https://github.com/hemendra-opensource?tab=repositories)
+
+---
+
+## Problem Solving & Computer Science Fundamentals
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- SQL and Query Optimization Fundamentals
+- Problem Solving with Python and Java
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/hemendra-opensource/)
+
+---
+
+## GitHub Analytics & Contribution Activity
+
+<div align="center">
+
+### Live GitHub Overview
+
+<a href="https://gitshine.com/stats/hemendra-opensource">
+  <img src="https://gitshine.com/card/hemendra-opensource" alt="Hemendra's GitHub contribution statistics" width="100%" />
+</a>
+
+*Contribution statistics, activity, streaks, and repository insights.*
+
+<br/>
+
+
+
+## GitHub Profile Metrics & Connect
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/hemendra-opensource">
+        <img src="https://img.shields.io/github/followers/hemendra-opensource?style=for-the-badge&logo=github&label=Followers" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/hemendra-opensource">
+        <img src="https://img.shields.io/github/stars/hemendra-opensource?style=for-the-badge&logo=github&label=Total%20Stars" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/hemendra-opensource?tab=repositories">
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hemendra-opensource&query=$.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/hemendra-sharma60">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://hemendra-sharma.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://leetcode.com/u/hemendra-opensource/">
+        <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="https://gitshine.com/stats/hemendra-opensource">
+  <img src="https://img.shields.io/badge/View_Detailed_GitHub_Analytics-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
